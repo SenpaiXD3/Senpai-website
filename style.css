@@ -1,0 +1,38 @@
+html {
+    height: 100%;
+}
+body {
+    animation: changeBg 10s linear infinite;
+    color: lightgray;
+    font-size: medium;
+    font-weight: bold;
+    font-family: Arial; 
+    text-align: center;
+}
+
+body {
+    margin:0;
+    padding:0;
+    font-family: sans-serif;
+    background: linear-gradient(yellow, orange);
+    background-image: url("hala.png");
+    background-size: 105%;
+}
+
+h1 {
+    color: cyan;
+    text-decoration: underline;
+    font-size: 50px;
+    position: center;
+}
+
+p {
+    font-size: 50px;
+    color: yellow;
+    text-decoration: underline;
+}
+
+a {
+    font-size: 50px;
+    color: blanchedalmond;
+}
